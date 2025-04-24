@@ -1,2 +1,2 @@
 # gitclass
-The class for git education
+這是git第一節課
